@@ -1,0 +1,70 @@
+{
+  "cards": [
+    {
+      "name": "1",
+      "listId": "2",
+      "id": 1
+    },
+    {
+      "name": "2",
+      "listId": "1",
+      "id": 2
+    },
+    {
+      "name": "3",
+      "listId": "1",
+      "id": 3
+    },
+    {
+      "name": "4",
+      "listId": "1",
+      "id": 4
+    },
+    {
+      "name": "5",
+      "listId": "1",
+      "id": 5
+    },
+    {
+      "name": "6",
+      "listId": "2",
+      "id": 6
+    },
+    {
+      "name": "7",
+      "listId": "2",
+      "id": 7
+    }
+  ],
+  "lists": [
+    {
+      "name": "alik",
+      "id": 1
+    },
+    {
+      "name": "hayk",
+      "id": 2
+    }
+  ],
+  "positions": [
+    {
+      "listID": 1,
+      "posititonsArray": [
+        6,
+        3,
+        4,
+        2
+      ],
+      "id": 1
+    },
+    {
+      "listID": 2,
+      "posititonsArray": [
+        5,
+        7,
+        8
+      ],
+      "id": 2
+    }
+  ]
+}
